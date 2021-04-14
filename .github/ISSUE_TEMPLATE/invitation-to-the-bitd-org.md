@@ -2,7 +2,7 @@
 name: Invitation to the BITD Org
 about: Invite people to BIT Durg Org
 title: ''
-labels: ''
+labels: 'invite me'
 assignees: ''
 
 ---
